@@ -33,25 +33,25 @@
 --
 Пример вывода в файл:
 --
-Component missing: paper
-Smoker with paper started smoking for 7 seconds
-Component missing: spichki
-Smoker with spichki started smoking for 9 seconds
-Smoker with paper finished smoking
-Component missing: spichki
-Smoker with spichki finished smoking
-Smoker with spichki started smoking for 8 seconds
-Component missing: paper
-Smoker with paper started smoking for 6 seconds
-Smoker with spichki finished smoking
-Smoker with paper finished smoking
-Component missing: spichki
-Smoker with spichki started smoking for 7 seconds
-Smoker with spichki finished smoking
-Component missing: spichki
-Smoker with spichki started smoking for 6 seconds
-Smoker with spichki finished smoking
-Component missing: tabak
-Smoker with tabak started smoking for 9 seconds
-Component missing: spichki
-Smoker with spichki started smoking for 5 seconds
+Component missing: paper<br>
+Smoker with paper started smoking for 7 seconds<br>
+Component missing: spichki<br>
+Smoker with spichki started smoking for 9 seconds<br>
+Smoker with paper finished smoking<br>
+Component missing: spichki<br>
+Smoker with spichki finished smoking<br>
+Smoker with spichki started smoking for 8 seconds<br>
+Component missing: paper<br>
+Smoker with paper started smoking for 6 seconds<br>
+Smoker with spichki finished smoking<br>
+Smoker with paper finished smoking<br>
+Component missing: spichki<br>
+Smoker with spichki started smoking for 7 seconds<br>
+Smoker with spichki finished smoking<br>
+Component missing: spichki<br>
+Smoker with spichki started smoking for 6 seconds<br>
+Smoker with spichki finished smoking<br>
+Component missing: tabak<br>
+Smoker with tabak started smoking for 9 seconds<br>
+Component missing: spichki<br>
+Smoker with spichki started smoking for 5 seconds<br>
